@@ -6,7 +6,7 @@ Kataminoの敷き詰め問題を解く
 
 
 ## 概要
-Kataminoの敷き詰め問題を以下のアルゴリズムで解く
+以下のアルゴリズムで解く
 
 1. ZDDを用いたフロンティア法
 2. Knuth's AlgorithmX
