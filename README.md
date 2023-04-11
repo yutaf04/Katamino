@@ -6,8 +6,8 @@
 ## 概要
 Polyominoの敷き詰めパズルを以下のアルゴリズムで解く
 
-1. フロンティア法(TdZDD)
-2. AlgorithmX
+1. フロンティア法(TdZDD)（実装済み）
+2. AlgorithmX(実装中)
 
 ## Exact Cover Problem への定式化
 
