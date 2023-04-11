@@ -1,4 +1,4 @@
-# Polyomino（ポリオミノ）の敷き詰め
+# Polyominoの敷き詰め
 
 [公式サイト(Katamino)](https://www.assiston.co.jp/2659)
 
