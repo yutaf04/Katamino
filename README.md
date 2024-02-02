@@ -1,4 +1,4 @@
-# Tiring of Polyomino
+# ポリオミノの敷き詰め問題（Tiling of Polyomino）
 
 [公式サイト(Katamino)](https://www.assiston.co.jp/2659)
 
