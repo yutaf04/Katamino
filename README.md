@@ -1,22 +1,20 @@
 # ポリオミノの敷き詰め問題（Tiling of Polyomino）
 
-[公式サイト(Katamino)](https://www.assiston.co.jp/2659)
+[公式サイト(KATAMINO)](https://www.assiston.co.jp/2659)
 
 
 ## 概要
 Polyominoの敷き詰めパズルを以下のアルゴリズムで解く
 
-1. フロンティア法(TdZDD)（実装済み）
-2. AlgorithmX(実装中)
+1. TdZDDを用いたフロンティア法（実装済）
+2. AlgorithmX
 
 ### フロンティア法
-二分決定グラフ（ZDD）を用いてグラフの部分構造を効率よく列挙するためのアルゴリズム
+ゼロサプレス型二分決定グラフ（ZDD）を用いて，グラフの部分構造を効率よく列挙するためのアルゴリズム
 
-詳しい記事
+詳しい記事 : [ZDDを用いた解法（湊真一）](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=185701&file_id=1&file_no=1)
 
-・[ZDDを用いた解法（湊真一）](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=185701&file_id=1&file_no=1)
-
-### TDZDD
+### TdZDD
 ・Top-Down-ZDDの略
 
 ・汎用的なZDDの構築手法が実装されているC++のライブラリ
